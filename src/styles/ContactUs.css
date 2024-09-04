@@ -1,0 +1,23 @@
+/* src/styles/ContactUs.css */
+.contact-container {
+    padding: 20px;
+  }
+  
+  .contact-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contact-form .MuiTextField-root {
+    margin-bottom: 20px;
+  }
+  
+  .contact-button {
+    align-self: flex-start;
+  }
+  
